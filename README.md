@@ -1,4 +1,4 @@
-**# Personalized Mentor Recommendation System - Approach Documentation**
+# Personalized Mentor Recommendation System - Approach Documentation
 
 ### **Requirements**
 1. **Python 3.7 or higher**
