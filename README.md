@@ -1,4 +1,4 @@
-# Personalized CLAT FAQ Chatbot - Approach Documentation
+# Chatbot for CLAT - Approach Documentation
 
 ## **Requirements**
 1. **Python 3.7 or higher**
